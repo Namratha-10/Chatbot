@@ -1,0 +1,26 @@
+{
+    "question": [
+        {
+            "question":"Hello!",
+            "answer": "Hey there!"
+            
+        },
+        {
+            "question":"How do I set up a new source in Segment?",
+            "answer": "To set up a new source in Segment, follow these steps.....\n 1. Log in to your Segment account. \n 2.Navigate to the Sources section in your workspace. \n  3. Click on Add Source. 4. Select the type of source you want to add (e.g., website, mobile, server). \n 5.Follow the on-screen instructions to configure the source, which may include installing the Segment SDK and setting up tracking. \n   6.Once configured, the new source will appear in your Sources list, and data will start flowing into Segment."
+
+        },
+        {
+            "question":"How can I create a user profile in mParticle?",
+            "answer":"Creating a User Profile in mParticle \n 1. Implement the mParticle SDK in your application (iOS, Android, Web, etc.). \n 2. Collect user data such as user IDs, attributes, and events within your app. \n 3. Send this data to mParticle using the SDK's methods. \n 4.mParticle will automatically create and update user profiles based on the data received."
+        },
+        {
+            "question":"How do I build an audience segment in Lytics?",
+            "answer":"To build an audience segment in Lytics \n 1.Log in to your Lytics account. \n 2.Navigate to the Audiences section.\n 3.Click on Create New Audience.\n 4. Define the criteria for your segment using user behaviors, attributes, or other data points.\n 5. Save the audience segment once you've configured the desired criteria.\n 6. Activate the segment as needed for your marketing or analytics purposes."
+        },
+        {
+            "question":"How can I integrate my data with Zeotap?",
+            "answer":"To integrate your data with Zeotap\n 1.Log in to your Zeotap account. \n 2. Navigate to the Integrate section of the platform.  \n 3.Choose the type of integration you wish to set up (e.g., data ingestion, API integration). \n 4. Follow the provided instructions to configure the integration, which may involve setting up data sources, mapping data fields, and establishing data transfer protocols. \n 5. Test the integration to ensure data is correctly flowing into Zeotap. \n 6. Monitor the integration for any issues and maintain it as needed." 
+        }
+    ]
+}
